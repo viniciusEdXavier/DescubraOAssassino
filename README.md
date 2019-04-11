@@ -47,4 +47,4 @@ Retorno: 1 (somente o assassino está incorreto)
 Teoria: 2, 3, 4
 Retorno: 0 (todos corretos, você solucionou o caso)
 
-Este programa resolve 
+Este programa resolve o problema apresentado, visando o menor número de perguntas à testemunha.
